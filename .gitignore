@@ -1,0 +1,15 @@
+build/
+build-*/
+dist/
+out/
+JUCE/
+juce_download.zip
+*.log
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+desktop.ini
